@@ -1,7 +1,7 @@
-GitBook Example: NDLA.NO
+GitBook døme: NDLA.NO
 =======
 
-This is a simple GitBook example, you can test it using:
+Enkelt døme på ndla:
 
 ````
 $ gitbook serve
