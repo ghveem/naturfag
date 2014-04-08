@@ -14,9 +14,11 @@ Læreplanen seier at du skal kunne dette
 - skille mellom resultater og påstander og diskutere kvaliteten på metoder og fremstilling av egne og andres data og tolkninger
 
 ###Studiespesialiserande, VG1
-Alle kompetansemål som står ovanfor.   
+Alle kompetansemål som står ovanfor.
+   
 >  I naturfagundervisningen framstår naturvitenskapen både som et produkt som viser den kunnskapen vi har i dag, og som prosesser som dreier seg om hvordan
 > naturvitenskapelig kunnskap bygges og etableres.
 > Prosessene omfatter utvikling av hypoteser,
 > eksperimentering, systematiske observasjoner, diskusjoner, kritisk vurdering, argumentasjon, begrunnelser for konklusjoner og formidling. Forskerspiren skal ivareta disse dimensjonene i opplæringen og integreres i de andre
-> hovedområdene. (Læreplanen i naturfag)
+> hovedområdene. Læreplanen i naturfag
+
