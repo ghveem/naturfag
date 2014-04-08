@@ -2,25 +2,24 @@
 
 Ein viktig kompetanse i eit moderne samfunn er å finne informasjon og kunne vurdere truverdet til og kvaliteten på kjelda. Sjølv om vi helst skulle ønskt at "nokon" serverte oss informasjon som alltid var til å stole på, er ikkje verda slik. Vi må derfor lære oss til å stole på vår eiga dømmekraft og kunnskap om ulike kjelder.
 
- <hr>
+
 **Tips:
-<br>Ta ein tur innom biblioteket på skulen eller i kommunen og få hjelp til å finne og vurdere informasjon.
+Ta ein tur innom biblioteket på skulen eller i kommunen og få hjelp til å finne og vurdere informasjon.
 ** 
- <hr>
+
  
 ##Eit insekteksempel
 Marihøne på et blad.
 Eit søk på "Marihøner" i NORDART (norske og nordiske tidsskriftartiklar) gir under 10 treff, mens eit søk i Google gir meir enn 42 000 treff. Treffa i NORDART kan setje deg på sporet av nye søk i Google, som for eksempel fører til fulltekstversjonar av Insekt-Nytt.
  
- <hr>
-**Tips:<br>
+
+**Tips:
 Når du skal vurdere ei kjelde, er det særleg fire forhold1 du må sjå på:
 truverdet til kjelda
 objektiviteten til kjelda
 nøyaktigheita til kjelda
 kor eigna kjelda er
 ** 
- <hr>
  
 En mann sitter ved en gammeldags ovn og leser ei avis.
 Merk deg alltid kvar du les ting du vil bruke, det kan vere vanskeleg å finne tilbake til det seinare. Mobilkamera kan brukast til å dokumentere noko du les på papir.
@@ -75,5 +74,6 @@ Klikk på biletet og sjå kva dei ulike delane av ei internettadresse viser til.
 
 Når du skriv oppgåver eller held føredrag og liknande, skal du alltid opplyse om kva kjelder du bruker. Ofte er det nok med internettadresser. Viss du vil gjere det litt ordentleg, kan du lage ei litteraturliste. Det finst reglar for korleis litteraturlister blir laga, og for naturvitskap er det tilrådd å bruke eit system som er skildra i Kildekompasset . 
 
-1. NTNU.  2009.  VIKO- interaktive kurs i informasjonskompetanse, modulen om kildekritikk.
-2. NTNU.  2011.  Hvilke informasjonskilder passer best for ditt behov?
+*1. NTNU.  2009.  VIKO- interaktive kurs i informasjonskompetanse, modulen om kildekritikk.*
+
+*2. NTNU.  2011.  Hvilke informasjonskilder passer best for ditt behov?*

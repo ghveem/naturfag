@@ -6,6 +6,7 @@ Naturfagsidene har eit mangfald av ressursar som høyrer til kompetansemåla i r
 Den reviderte planen skal tydeleggjere kva dei grunnleggjande ferdigheitene  er, og det skal leggjast større vekt enn tidlegare på at elevane skal drøfte dagsaktuelle naturfaglege problemstillingar frå ulike kjelder. Dei skal òg kunne drøfte kvaliteten på argument og konklusjonar i debattinnlegg.
 
 ![Illustrasjonsbilde, naturfag](http://cdn-a.ndlap3.seria.net/sites/default/files/imagecache/Fullbredde/images/naturfagkollasje.jpg)
+
 # Forskerspira
 
 ##Forskerspira – innleiing
@@ -28,9 +29,13 @@ Alle kompetansemål som står ovanfor.
 > Prosessene omfatter utvikling av hypoteser,
 > eksperimentering, systematiske observasjoner, diskusjoner, kritisk vurdering, argumentasjon, begrunnelser for konklusjoner og formidling. Forskerspiren skal ivareta disse dimensjonene i opplæringen og integreres i de andre
 > hovedområdene.
-
->Læreplanen i naturfag# Innholdsliste
+>(Læreplanen i naturfag)# Innholdsliste
 * [Forskerspira](chapter-1/README.md)
     * [Forskerspira – innleiing](chapter-1/ARTICLE1.md)
     * [Vitskapleg arbeidsmåte](chapter-1/ARTICLE2.md)
     * [Informasjonskjelder og kjeldekritikk](chapter-1/ARTICLE3.md)
+
+* [Bærekraftig utvikling](chapter-2/README.md)
+    * [tema1 – innleiing](chapter-2/ARTICLE1.md)
+    * [tema2 – innleiing](chapter-2/ARTICLE2.md)
+    * [tema3 – innleiing](chapter-2/ARTICLE3.md)

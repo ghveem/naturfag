@@ -1,4 +1,5 @@
 #Vitskapleg arbeidsmåte
+
 ##Forskning på flyulykker
 Omgrepet "teori" blir brukt forskjellig i dagleglivet og i vitskapen. I naturfag er teoriar den sikraste kunnskapen vi har til no, mens vi til dagleg ser på ein teori som noko usikkert. Vi kjem fram til vitskaplege teoriar gjennom eksperiment og observasjonar.
 

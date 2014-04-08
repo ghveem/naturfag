@@ -19,6 +19,4 @@ Alle kompetansemål som står ovanfor.
 > naturvitenskapelig kunnskap bygges og etableres.
 > Prosessene omfatter utvikling av hypoteser,
 > eksperimentering, systematiske observasjoner, diskusjoner, kritisk vurdering, argumentasjon, begrunnelser for konklusjoner og formidling. Forskerspiren skal ivareta disse dimensjonene i opplæringen og integreres i de andre
-> hovedområdene.
-
->Læreplanen i naturfag
+> hovedområdene. (Læreplanen i naturfag)
